@@ -13,7 +13,7 @@ I am a passionate Software Engineer with 3+ years of experience in developing an
 - 🌱 Currently working on fixing flaky tests in Open Source Projects and Full Stack Web Development
 - 📚 Learning NLP and Distributed Systems
 - 💬 Ask me about Software Design, Databases, Backend Engineering
-- 📄 Checkout my [Resume](https://drive.google.com/drive/u/0/folders/1TTPMwGsSeLRs6y7Fd4W6GU4QxrwtQw7g)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1clTBhHuwvVNcDQn3wi763EN7P-YaeowJ/view?usp=sharing)
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nikunj-a-7a4782a2/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nikunjagarwal321/)[<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:nikunjagarwal321@gmail.com) 
