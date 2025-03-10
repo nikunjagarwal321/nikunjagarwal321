@@ -10,7 +10,7 @@ I am a passionate Software Engineer with 3+ years of experience in developing an
 
 - 🎓 Computer Science Graduate Student at University of Illinois at Urbana-Champaign
 - 💻 Experienced in REST APIs, crawlers, microservices, and distributed state machine frameworks
-- 🌱 Currently working on fixing flaky tests in Open Source Projects and Full Stack Web Development
+- 🌱 Currently diving deep into Cloud Computing, Advancements in new Data Management Tech, Text Information Systems and Full Stack Web Development
 - 📚 Learning NLP and Distributed Systems
 - 💬 Ask me about Software Design, Databases, Backend Engineering
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1clTBhHuwvVNcDQn3wi763EN7P-YaeowJ/view?usp=sharing)
