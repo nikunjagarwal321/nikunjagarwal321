@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 I am a passionate Software Engineer with 3+ years of experience in developing and optimizing backend systems. I am enthusiastic about solving customer problems and building high-quality software products. I have worked on various backend projects, including REST APIs, crawlers, microservices and distributed state machine framework. </h3>
 
 - 🎓 Computer Science Graduate Student at University of Illinois at Urbana-Champaign
-- 💻 Experienced in REST APIs, crawlers, microservices, and distributed state machine frameworks
-- 🌱 Currently diving deep into Cloud Computing, Advancements in new Data Management Tech, Text Information Systems and Full Stack Web Development
-- 📚 Learning NLP and Distributed Systems
+- 💻 Currently interning at Amazon, Seattle
+- 🌱 Experienced in REST APIs, crawlers, microservices, and distributed state machine frameworks
+- 📚 Learning NLP, Distributed Systems, Cloud Computing, Advancements in new Data Management Tech
 - 💬 Ask me about Software Design, Databases, Backend Engineering
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1clTBhHuwvVNcDQn3wi763EN7P-YaeowJ/view?usp=sharing)
 
@@ -32,7 +32,9 @@ I am a passionate Software Engineer with 3+ years of experience in developing an
 - [Google File System](https://github.com/nikunjagarwal321/gfs)
 - [Search Engine](https://github.com/nikunjagarwal321/search-engine)
 - [FoodForward](https://github.com/nikunjagarwal321/FoodForward)
+- [ScholarChain](https://github.com/nikunjagarwal321/research_paper_RAG_chain)
 - [Viber](https://github.com/nikunjagarwal321/Viberr-Django)
+- [NLP API Analysis](https://github.com/nikunjagarwal321/nlp_api_analysis)
 
 </font>
 
