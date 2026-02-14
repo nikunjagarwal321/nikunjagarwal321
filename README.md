@@ -8,11 +8,12 @@ Here are some ideas to get you started:
 ## Hi 👋, I'm Nikunj Agarwal
 I am a passionate Software Engineer with 3+ years of experience in developing and optimizing backend systems. I am enthusiastic about solving customer problems and building high-quality software products. I have worked on various backend projects, including REST APIs, crawlers, microservices and distributed state machine framework. </h3>
 
-- 🎓 Computer Science Graduate Student at University of Illinois at Urbana-Champaign
-- 💻 Software Development Engineer Intern at Amazon, Seattle
-- 🌱 Experienced in REST APIs, crawlers, microservices, distributed systems, NLP
-- 📚 Currently learning Agentic AI workflows(Self-Learning Goal) and Distributed Systems(In Depth through UIUC Courses)
-- 💬 Ask me about Software Design, Databases, Backend Engineering
+- 💼 Forward Deployed Engineer (FDE) at Postman
+- 🎓 MCS Graduate from University of Illinois at Urbana-Champaign
+- 💻 Former Software Development Engineer 2 at CommerceIQ and Software Development Engineer Intern at Amazon
+- 🌱 Experienced in Distributed Systems, REST APIs, Microservices, Databases, and ETL Pipelines
+- 📚 Currently exploring Agentic AI workflows and advanced System Design patterns
+- 💬 Ask me about System Design, Databases, Backend Engineering, Distributed Systems
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1clTBhHuwvVNcDQn3wi763EN7P-YaeowJ/view?usp=sharing)
 
 
@@ -36,13 +37,17 @@ I am a passionate Software Engineer with 3+ years of experience in developing an
 
 ### 🏆 Projects:
 <font size = "2">
-  
+
+- [Rainstorm](https://github.com/nikunjagarwal321/rainstorm)
+- [HyDFS](https://github.com/nikunjagarwal321/hydfs)
+- [PaperIQ](https://github.com/nikunjagarwal321/PaperIQ)
 - [Google File System](https://github.com/nikunjagarwal321/gfs)
 - [Search Engine](https://github.com/nikunjagarwal321/search-engine)
 - [FoodForward](https://github.com/nikunjagarwal321/FoodForward)
-- [ScholarChain](https://github.com/nikunjagarwal321/research_paper_RAG_chain)
 - [Viber](https://github.com/nikunjagarwal321/Viberr-Django)
 - [NLP API Analysis](https://github.com/nikunjagarwal321/nlp_api_analysis)
+- [Open Data Format Evaluation](https://github.com/nikunjagarwal321/open-data-format-evaluation)
+- [RAG framework Evaluation](https://github.com/nikunjagarwal321/rag-evaluation-framework)
 
   
 </font>
