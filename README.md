@@ -14,7 +14,7 @@ I am a passionate Software Engineer with 3+ years of experience in developing an
 - 🌱 Experienced in Distributed Systems, REST APIs, Microservices, Databases, and ETL Pipelines
 - 📚 Currently exploring Agentic AI workflows and advanced System Design patterns
 - 💬 Ask me about System Design, Databases, Backend Engineering, Distributed Systems
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1clTBhHuwvVNcDQn3wi763EN7P-YaeowJ/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1LrqpeoppLnodHgqC48w9d3IIKKm8g8ib/view?usp=drive_link)
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nikunj-a-7a4782a2/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:nikunjagarwal321@gmail.com) 
